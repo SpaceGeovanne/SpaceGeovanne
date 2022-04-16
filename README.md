@@ -33,6 +33,8 @@
 
 ## ⭐ Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SpaceGeovanne&show_icons=true)
+<br>
+![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpaceGeovanne&layout=compact&langs_count=7&theme=dark)
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
