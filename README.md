@@ -1,7 +1,7 @@
 ## 💜 Olá, meu nome é <strong>Geovanne!</strong>
 
 > Seja bem-vindo(a) ao meu perfil. <br>
-🔭 Trabalhando atualmente no projeto **StormMC**.
+🔭 Trabalhando atualmente na **Logic Corporation LTDA**.
 
 
 📖 Um simples garoto que sonha em um dia se formar em <strong>Ciência da Computação</strong>.
