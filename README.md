@@ -5,7 +5,7 @@
 
 
 📖 Um simples garoto que sonha em um dia se formar em <strong>Ciência da Computação</strong>.
-<br> Fora a área de desenvolvimento, também estou cursando: 🧑‍🔧 Eletromecânica no Instituto Federal.  
+<br> Cursando atualmente: 🧑‍🔧 Eletromecânica no Instituto Federal.  
 <br> 🍃 Viva la vida!
 
 
