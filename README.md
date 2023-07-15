@@ -32,7 +32,7 @@
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SpaceGeovanne&show_icons=true)
+![SpaceGeovanne's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpaceGeovanne&show_icons=true&theme=radical)
 <br>
 ![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpaceGeovanne&layout=compact&langs_count=7&theme=dark)
 
