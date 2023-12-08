@@ -1,10 +1,8 @@
 ## 💜 Olá, meu nome é <strong>Geovanne!</strong>
 
 > Seja bem-vindo(a) ao meu perfil. <br>
-🔭 Trabalhando atualmente na **SpaceTeam | 2022**.
 
-
-📖 Um simples garoto que sonha em um dia se formar em <strong>Ciência da Computação</strong>.
+Sou um simples sonhador... ✨
 <br> Cursando atualmente: 🧑‍🔧 Eletromecânica no Instituto Federal.  
 <br> 🍃 Viva la vida!
 
@@ -16,8 +14,6 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Html"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="Css"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
@@ -36,7 +32,7 @@
 <br>
 ![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpaceGeovanne&layout=compact&langs_count=7&theme=dark)
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> 🌎 Onde me encontrar: </h3> 
 
 [![Instagram: space_geovanne](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/space_geovanne/)](https://www.instagram.com/space_geovanne/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:contato.spacegeovanne@gmail.com)](mailto:contato.spacegeovanne@gmail.com)
