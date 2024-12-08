@@ -3,7 +3,7 @@
 > Seja bem-vindo(a) ao meu perfil. <br>
 
 Sou um simples sonhador... ✨
-<br> Cursando atualmente: 🧑‍🔧 Eletromecânica no Instituto Federal.  
+<br> Futuro bacharel em <strong>Ciência e Tecnologia</strong> pela <strong>Universidade Federal do Maranhão</strong>.
 <br> 🍃 Viva la vida!
 
 
