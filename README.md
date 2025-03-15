@@ -1,15 +1,26 @@
-## 💜 Olá, meu nome é <strong>Geovanne!</strong>
+## Hello World 🌎</strong>
 
-> Seja bem-vindo(a) ao meu perfil. <br>
+<ul>
+  <li>I'm Geovanne and welcome to my GitHub!</li>
+  <li>My dream is to become a <strong>professional of excellence.</strong></li>
+</ul>
 
-Sou um simples sonhador... ✨
-<br> Futuro bacharel em <strong>Ciência e Tecnologia</strong> pela <strong>Universidade Federal do Maranhão</strong>.
-<br> 🍃 Viva la vida!
+## Academic Education 📚 </strong>
 
+<ul>
+  <li>Technician in Electromechanical by the <strong>Federal Institute of Maranhão</strong></li>
+  <li>Academic in Science and Technology by the <strong>Federal University of Maranhão</li>
+</ul>
+
+## Professional Experience 🏢 </strong>
+
+<ul>
+  <li>Electromechanical Technician and Planning Assistant at <strong>Iluminar ISE</strong></li>
+</ul>
 
 ----
 
-## 🚀 Minhas Skills
+## 🚀 My Skills
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
@@ -18,7 +29,7 @@ Sou um simples sonhador... ✨
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 
-**Ferramentas de Desenvolvimento**
+**Integrated Development Environment**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
@@ -27,12 +38,12 @@ Sou um simples sonhador... ✨
 
 ---
 
-## ⭐ Informações sobre minha conta GitHub
+## ⭐ About my GitHub's Account
 ![SpaceGeovanne's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpaceGeovanne&show_icons=true&theme=radical)
 <br>
 ![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpaceGeovanne&layout=compact&langs_count=7&theme=dark)
 
-<h3> 🌎 Onde me encontrar: </h3> 
+<h3> 🌎 Find me</h3> 
 
 [![Instagram: space_geovanne](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/space_geovanne/)](https://www.instagram.com/space_geovanne/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:contato.spacegeovanne@gmail.com)](mailto:contato.spacegeovanne@gmail.com)
